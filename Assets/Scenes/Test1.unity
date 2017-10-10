@@ -263,35 +263,9 @@ Prefab:
       propertyPath: m_RootOrder
       value: 4
       objectReference: {fileID: 0}
-    - target: {fileID: 4030857030451214, guid: 6a3d7d66653bbb04091052e672c0a814, type: 2}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 180
-      objectReference: {fileID: 0}
-    - target: {fileID: 4892585712804560, guid: 6a3d7d66653bbb04091052e672c0a814, type: 2}
-      propertyPath: m_LocalScale.x
-      value: 0.13142735
-      objectReference: {fileID: 0}
-    - target: {fileID: 4892585712804560, guid: 6a3d7d66653bbb04091052e672c0a814, type: 2}
-      propertyPath: m_LocalScale.y
-      value: 0.065713674
-      objectReference: {fileID: 0}
-    - target: {fileID: 4892585712804560, guid: 6a3d7d66653bbb04091052e672c0a814, type: 2}
-      propertyPath: m_LocalScale.z
-      value: 0.13142735
-      objectReference: {fileID: 0}
     - target: {fileID: 1575398399581516, guid: 6a3d7d66653bbb04091052e672c0a814, type: 2}
       propertyPath: m_Name
       value: Robot1 Testing (1)
-      objectReference: {fileID: 0}
-    - target: {fileID: 108867643196922428, guid: 6a3d7d66653bbb04091052e672c0a814,
-        type: 2}
-      propertyPath: m_Range
-      value: 0.26
-      objectReference: {fileID: 0}
-    - target: {fileID: 108867643196922428, guid: 6a3d7d66653bbb04091052e672c0a814,
-        type: 2}
-      propertyPath: m_Intensity
-      value: 177.62
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 6a3d7d66653bbb04091052e672c0a814, type: 2}
